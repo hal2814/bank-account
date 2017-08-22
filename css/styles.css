@@ -1,0 +1,17 @@
+.col-sm-5 {
+  background-color: grey;
+  text-align: right;
+  margin: 10px;
+}
+/*div {
+  margin: 10px;
+}*/
+.col-sm-10 {
+  background-color: grey;
+  text-align: center;
+  margin: 10px;
+}
+span {
+  background-color: white;
+  font-size: 20px;
+}
